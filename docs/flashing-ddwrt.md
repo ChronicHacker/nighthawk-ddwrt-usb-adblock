@@ -6,7 +6,7 @@
   - `factory-to-ddwrt.chk`
   - `webflash.bin`
  
-  or https://wiki.dd-wrt.com/wiki/index.php/Netgear_R6400v2 (also applieds for R6700v3).
+  or https://wiki.dd-wrt.com/wiki/index.php/Netgear_R6400v2 (also applies for R6700v3).
 
 ## 2. Flash Instructions
 1. Connect your PC to the router via Ethernet.
